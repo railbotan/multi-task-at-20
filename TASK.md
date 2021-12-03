@@ -47,6 +47,9 @@
 ![image](https://user-images.githubusercontent.com/71966352/144617966-950feb05-d238-4111-a021-9865e4da4a79.png)
 
 * 2 воркера:
+
+![image](https://user-images.githubusercontent.com/71966352/144636443-b485bec4-d4cf-4d45-8dde-68a586ffd7e7.png)
+
 * 4 воркера:
 * 5 воркеров:
 * 10 воркеров:
