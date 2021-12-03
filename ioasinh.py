@@ -19,7 +19,7 @@ def viewer(url):
         print(url, e)
 
 
-with concurrent.futures.ThreadPoolExecutor(10) as executor:
+with concurrent.futures.ThreadPoolExecutor(50) as executor:
     future_to_url = {executor.submit(viewer, url=url): url for url in urls}
     for future in concurrent.futures.as_completed(future_to_url):
         future.result(60)
