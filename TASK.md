@@ -15,12 +15,17 @@
 ### Переписанный код с использованием ThreadPoolExecutor
 *  5 воркеров: 
 
+![pycharm64_gcxRgME96u](https://user-images.githubusercontent.com/71966352/144615412-3efdd4f3-a696-4ef6-94e4-74c6a939401b.png)
 
 
 ![image](https://user-images.githubusercontent.com/71966352/144611122-a43283d6-00a0-4a72-9e7f-8724e5dfe242.png)
 
 * 10 воркеров:
 
+![pycharm64_1u4pexaSkf](https://user-images.githubusercontent.com/71966352/144616015-1e000a1b-887f-41e6-84e8-200bc3d21e01.png)
+
+
+![image](https://user-images.githubusercontent.com/71966352/144615896-83ed8dd4-07f0-4e5c-8413-1e82b0d96410.png)
 
 * 100 воркеров:
 
