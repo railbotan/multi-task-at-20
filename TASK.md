@@ -89,16 +89,22 @@
 
 Время выполнения:
 
+![pycharm64_cAoGwoVQO0](https://user-images.githubusercontent.com/71966352/144638915-6a9fe54c-e2b8-450c-b8b7-55ccf938f681.png)
+
 Диспечер задач:
+
+![image](https://user-images.githubusercontent.com/71966352/144638355-0a746f22-bb5d-45cf-807e-45063dc6dc6a.png)
 
 * 10 воркеров:
 
 Время выполнения:
 
+![pycharm64_0f3SygPHWP](https://user-images.githubusercontent.com/71966352/144639238-0a03e0b9-599a-4d51-b205-2f4a0a3ab516.png)
+
 Диспечер задач:
+
+![image](https://user-images.githubusercontent.com/71966352/144639176-449f6c6a-9966-4c99-85e5-a4be4db0af9a.png)
 
 * 100 воркеров:
 
-Время выполнения:
-
-Диспечер задач:
+![pycharm64_bdHU9J1ppN5](https://user-images.githubusercontent.com/71966352/144639547-e7c8add8-f8f7-4e0e-b6ee-df2d8b04d350.png)
