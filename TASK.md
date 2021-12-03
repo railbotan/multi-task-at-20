@@ -29,6 +29,13 @@
 
 * 100 воркеров:
 
+![pycharm64_zGmQ2kco6C](https://user-images.githubusercontent.com/71966352/144616510-12d82dde-b222-442d-954c-ba6cc468a9fb.png)
+
+![image](https://user-images.githubusercontent.com/71966352/144616207-17ee7252-7143-41ed-8da3-bc6c44b8325f.png)
+
+![image](https://user-images.githubusercontent.com/71966352/144616385-74d1c6b4-6047-4fb6-92a0-948f75afeb29.png)
+
+
 ## CPU-bound. Генерируем монетки
 Результаты генерации 4х монет: 
 *
