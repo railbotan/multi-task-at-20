@@ -16,7 +16,9 @@
 
 ![image](https://user-images.githubusercontent.com/71966352/144611122-a43283d6-00a0-4a72-9e7f-8724e5dfe242.png)
 
-*10 воркеров:
+* 10 воркеров:
+
+
 * 100 воркеров:
 
 ## CPU-bound. Генерируем монетки
