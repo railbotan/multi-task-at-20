@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/71966352/144634084-e57d7454-0767-4318-9198-6b5b1ff3c9cc.png)
 
-![image](https://user-images.githubusercontent.com/71966352/144617966-950feb05-d238-4111-a021-9865e4da4a79.pn
+![image](https://user-images.githubusercontent.com/71966352/144617966-950feb05-d238-4111-a021-9865e4da4a79.png)
 
 * 2 воркера:
 * 4 воркера:
