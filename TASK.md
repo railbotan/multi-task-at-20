@@ -9,6 +9,9 @@
 
 ![pycharm64_Nxc8G5ntQc](https://user-images.githubusercontent.com/71966352/144597954-ba487f4e-ee09-4f61-be4d-b17398240559.png)
 
+![image](https://user-images.githubusercontent.com/71966352/144613993-ae72de29-e4b5-4999-8684-bb5becab40b8.png)
+
+
 ### Переписанный код с использованием ThreadPoolExecutor
 *  5 воркеров: 
 
